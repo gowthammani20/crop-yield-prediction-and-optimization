@@ -1,0 +1,8 @@
+{
+  "name": "YIELD MAX",
+  "description": "An AI-driven decision support platform that predicts crop yield, recommends fertilizers, irrigation, and pest control measures by combining soil, weather, and location data. It provides real-time guidance to farmers to increase productivity.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
